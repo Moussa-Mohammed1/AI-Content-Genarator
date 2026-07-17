@@ -1,0 +1,13 @@
+venv/
+
+__pycache__/
+*.pyc
+
+app/.env
+
+storage
+_skill_smoke.py
+test_pipeline_run.py
+scripts
+tests
+.env
